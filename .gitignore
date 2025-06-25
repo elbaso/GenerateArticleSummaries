@@ -1,0 +1,21 @@
+# Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+venv/
+
+# Environment variables
+.env
+
+# VS Code and IDE folders
+.vscode/
+.idea/
+
+# macOS metadata
+.DS_Store
+
+# PDF input/output folders
+pdfs/
+summaries/

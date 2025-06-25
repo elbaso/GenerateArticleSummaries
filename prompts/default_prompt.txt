@@ -1,0 +1,14 @@
+For every article that I upload here, please do the following in Markdown format:
+Put the article title in Heading level 1.
+Put the label Summary in Heading level 2, and add a 2-3 sentence high-level summary of the article.
+Put the label Authors in Heading level 2, then add a bullet list of each author in my own special author name format: If the author name is John Smith, then output [[@John Smith]] as the author name.
+Put the label Publication Date in Heading level 2, then put the publication date of the article under that heading. If you can't ascertain the publication date, leave this section empty.
+Put the label File Name in Heading level 2, then write the actual file name between back-ticks. I.e.: If the file name is "661 - Park - Doing Business in 2030.pdf", write `661 - Park - Doing Business in 2030.pdf`
+Put the label Keywords in Heading level 2, then write 3-5 key concepts from the article in tag format (#tag) with no back-ticks.
+Put the label Overview in Heading level 2, then summarize the article in 2-3 paragraphs.
+Put the label Key Concepts in Heading level 2, then write a bullet list of the main concepts of the article in 7-10 bullet points.
+Put a label My Notes in Heading level 2, and a blank line underneath so I can write my own notes.
+
+At the bottom, insert a separator using three-dashes: "---" with no double-quotes.
+
+Underneath that, insert a Heading level 1 with the text Article Highlights, and then end on a new line.

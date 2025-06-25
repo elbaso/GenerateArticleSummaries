@@ -1,0 +1,4 @@
+python-dotenv
+PyPDF2
+tiktoken
+openai>=1.0.0
