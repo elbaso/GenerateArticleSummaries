@@ -64,13 +64,13 @@ Include `{{FILENAME}}` as a placeholder that will be replaced automatically.
 ## 🚀 Usage
 
 ```bash
-python3 summarizer_two_pass.py /path/to/pdf/folder -o /path/to/output/folder
+python3 summarizer.py /path/to/pdf/folder -o /path/to/output/folder
 ```
 
 Example:
 
 ```bash
-python3 summarizer_two_pass.py ./pdfs -o ./summaries
+python3 summarizer.py ./pdfs -o ./summaries
 ```
 
 ---
